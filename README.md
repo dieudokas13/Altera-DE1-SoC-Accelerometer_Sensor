@@ -12,6 +12,16 @@ The video demonstrating how my application works can be found on youtube : https
 
 The .qar file is the archived project under Quartus. The .sof file is the binary used to flash the FPGA board with the code of the driver and the application.
 
+The Présentation in .ppt is a powerpoint presenting the project and the Tutorial_Driving_Accelerometer_on_DE1_SoC-FPMs.pdf is a tutorial to reproduce the project made.
+
+In the .qar file you will find .vhd files and a test bench(es) corresponding to their tasks for simulation.
+
+The I2C_Driver.vhd file is the program that manages the communication in I2C with the device. It is inspired to a i2c_master.vhd file found on the internet (https://www.digikey.com/eewiki/pages/viewpage.action?pageId=10125324).
+
+The Appli.vhd is the program that includes the state machine of the sensor.
+
+The Appli_Driver.vhd is grouping the  I2C driver with the Application where you only need to name the pins you want to use to flash it on the SoC. The mapping was done in the DE1SoC.vhd file.
+
 # Project Presented by
 
 Kasongo Kabasele Dieudonné : dieudonne.kasongokabasele@student.umons.ac.be
