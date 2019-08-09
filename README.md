@@ -8,7 +8,7 @@ The FPGA board that was used in this project was Altera DE1-SoC rev. D. The acce
 
 In this project i learn how to drive an accelerometer sensor mentionned above through I2C serial bus interface with an Altera Cyclone V SoC using Quartus II starting from a simple code C that did the same job on a PIC card (accelorometer.c).
 
-The video demonstrating how my application works can be found here : 
+The video demonstrating how my application works can be found on youtube : https://youtu.be/tSfjQ94cZB0
 
 The .qar file is the archived project under Quartus. The .sof file is the binary used to flash the FPGA board with the code of the driver and the application.
 
