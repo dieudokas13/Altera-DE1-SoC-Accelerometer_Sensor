@@ -1,0 +1,23 @@
+Quartus Prime Archive log --	C:/Users/kasongokabaseled/Desktop/Github_files/Accelerometer_Archived.qarlog
+
+Archive:	C:/Users/kasongokabaseled/Desktop/Github_files/Accelerometer_Archived.qar
+Date:		Fri Aug 09 11:39:51 2019
+Quartus Prime		18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/kasongokabaseled/Desktop/Hw_Sw_project_Acc/Accelerometer.qpf
+C:/Users/kasongokabaseled/Desktop/Hw_Sw_project_Acc/Accelerometer.qsf
+C:/Users/kasongokabaseled/Desktop/Hw_Sw_project_Acc/Accelerometer.tcl
+C:/Users/kasongokabaseled/Desktop/Hw_Sw_project_Acc/Appli.vhd
+C:/Users/kasongokabaseled/Desktop/Hw_Sw_project_Acc/Appli_Driver.vhd
+C:/Users/kasongokabaseled/Desktop/Hw_Sw_project_Acc/Appli_Driver_TB.vhd
+C:/Users/kasongokabaseled/Desktop/Hw_Sw_project_Acc/Appli_TB.vhd
+C:/Users/kasongokabaseled/Desktop/Hw_Sw_project_Acc/DE1SoC.vhd
+C:/Users/kasongokabaseled/Desktop/Hw_Sw_project_Acc/I2C_Driver.vhd
+C:/Users/kasongokabaseled/Desktop/Hw_Sw_project_Acc/I2C_Driver_TB.vhd
+C:/Users/kasongokabaseled/Desktop/Hw_Sw_project_Acc/stp1.stp
+c:/intelfpga_lite/18.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 12 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
