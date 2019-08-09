@@ -4,9 +4,9 @@ This project repository is made in the frame of M. Valderrama (FPMS-UMONS, Belgi
 
 To do so we should create or use an existing driver, create an application (human interaction interface) and test it on the board.
 
-The FPGA board that was used in this project was Altera DE1-SoC rev. D. The accelerometer sensor peripheric model is LIS3LV02DL. All the information provided in the tutorial comes from personal knowledge, experiment and from the .PDF documentation that can be found in the "documentation" folder.
+The FPGA board that was used in this project was Altera DE1-SoC. The accelerometer sensor peripheric model is LIS3LV02DL. All the information provided in the tutorial comes from personal knowledge, experiment and from the .PDF documentation that can be found in the "documentation" folder.
 
-In this project i learn how to drive an accelerometer sensor mentionned above through I2C serial bus interface with an Altera Cyclone V SoC using Quartus II starting from a simple code C that did the same job on a PIC card (accelorometer.c).
+In this project i learn how to drive an accelerometer sensor mentionned above through I2C serial bus interface with an Altera Cyclone V SoC using Quartus and this starting from a simple code C which did the same job on a PIC card (accelorometer.c).
 
 The video demonstrating how my application works can be found on youtube : https://youtu.be/tSfjQ94cZB0
 
