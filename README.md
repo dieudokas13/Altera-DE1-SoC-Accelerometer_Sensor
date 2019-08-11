@@ -1,4 +1,4 @@
-# Hardware Software Platforms : Altera Quartus EDA and DE1-SoC-Accelerometer_Sensor (driver and application)
+# Hardware Software Platforms : Altera Quartus EDA, DE1-SoC and Accelerometer_Sensor (driver and application)
 
 This project repository is made in the frame of M. Valderrama (FPMS-UMONS, Belgium) course entitled Hardware Software Platform. The objective of this course is to develop and create a tutorial explaining how to use a development tool (Altera Quartus EDA in my case), platform and peripheral, to develop tests to evaluate the device, its driver and its human interface using simulation or a test bench.
 
